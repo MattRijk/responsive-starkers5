@@ -47,7 +47,7 @@ get_header(); ?>
 <section class="how-to">
     <aside>
         <div class="content">
-            <img alt="Choosing the proper seating" src="images/photo_lighting">
+            <img src="https://responsive-starkers5-mattrijk.c9users.io/wp-content/uploads/2016/07/photo_lighting.jpg"></img>
             <h4>Responsive Web Design Is Not Mobile First</h4>
             <p>My colleague and coauthor Ted Schadler and I are watching with dismay as company after company shrinks its desktop website down to a 
                small screen using responsive web design (RWD) techniques so it fits on — but isn’t optimized for — smartphones.</p>
@@ -56,7 +56,7 @@ get_header(); ?>
     </aside>
     <aside>
         <div class="content">
-            <img alt="Choosing the proper seating" src="images/photo_seating.jpg">
+            <img alt="Choosing the proper seating" src="https://responsive-starkers5-mattrijk.c9users.io/wp-content/uploads/2016/07/photo_seating.jpg">
             <h4>The future of web design</h4>
             <p>So, how do you design for the future?  How can you create a website now, using today’s 
                 technology to make it as future-proof as possible?  How can you optimize it for Google and future-proof it 
