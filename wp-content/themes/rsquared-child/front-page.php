@@ -44,6 +44,30 @@ get_header(); ?>
     </article>
     
 </section>
-<section class="how-to"></section>
+<section class="how-to">
+    <aside>
+        <div class="content">
+            <img alt="Choosing the proper seating" src="images/photo_lighting">
+            <h4>Responsive Web Design Is Not Mobile First</h4>
+            <p>My colleague and coauthor Ted Schadler and I are watching with dismay as company after company shrinks its desktop website down to a 
+               small screen using responsive web design (RWD) techniques so it fits on — but isn’t optimized for — smartphones.</p>
+            <a href="http://www.huffingtonpost.com/julie-ask/responsive-web-design-is-_b_10861340.html">Learn More</a>
+        </div>
+    </aside>
+    <aside>
+        <div class="content">
+            <img alt="Choosing the proper seating" src="images/photo_seating.jpg">
+            <h4>The future of web design</h4>
+            <p>So, how do you design for the future?  How can you create a website now, using today’s 
+                technology to make it as future-proof as possible?  How can you optimize it for Google and future-proof it 
+                against future SEO updates, or even a new search engine?</p>
+            <a href="http://searchengineland.com/google-says-page-speed-ranking-factor-use-mobile-page-speed-mobile-sites-upcoming-months-250874">Read more</a>
+        </div>
+    </aside>
+    <blockquote>
+        <p class="quote"></p>
+        
+    </blockquote>
+</section>
 
 <?php get_footer(); ?>
