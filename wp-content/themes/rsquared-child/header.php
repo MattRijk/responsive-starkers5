@@ -63,6 +63,8 @@
             <a class="btn" title="Get advice from top designers" href="#">Get advice from top designers</a>
         </div>
         <!--nav menu-->
+    
         <?php /* Our navigation menu.  If one isn't filled out, wp_nav_menu falls back to the 'starkers_menu' function which can be found in functions.php.  The menu assiged to the primary position is the one used.  If none is assigned, the menu with the lowest ID is used.  */ ?>
         <?php wp_nav_menu( array( 'container' => 'nav', 'fallback_cb' => 'starkers_menu', 'theme_location' => 'primary' ) ); ?>
+       
     </header>
