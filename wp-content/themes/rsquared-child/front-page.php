@@ -46,7 +46,8 @@ get_header(); ?>
 <section class="how-to">
     <aside>
         <div class="content">
-            <h4>Responsive Web Design Is Not Mobile First</h4>
+            <img alt="Choosing the proper seating" src="https://responsive-starkers5-mattrijk.c9users.io/wp-content/themes/rsquared-child/images/photo_seating.jpg" />
+            <h4>Responsive Web Design - Mobile First</h4>
             <p>My colleague and coauthor Ted Schadler and I are watching with dismay as company after company shrinks its desktop website down to a 
                small screen using responsive web design (RWD) techniques so it fits on — but isn’t optimized for — smartphones.</p>
             <a href="http://www.huffingtonpost.com/julie-ask/responsive-web-design-is-_b_10861340.html">Learn More</a>
@@ -54,6 +55,7 @@ get_header(); ?>
     </aside>
     <aside>
         <div class="content">
+            <img alt="Choosing the proper lighting" src="https://responsive-starkers5-mattrijk.c9users.io/wp-content/themes/rsquared-child/images/photo_lighting.jpg" />
             <h4>The future of web design</h4>
             <p>So, how do you design for the future?  How can you create a website now, using today’s 
                 technology to make it as future-proof as possible?  How can you optimize it for Google and future-proof it 
@@ -62,7 +64,7 @@ get_header(); ?>
         </div>
     </aside>
     <blockquote>
-        <p class="quote"></p>
+        <p class="quote">Furthermore, quotes are always used for testimonials and sometimes for blog comments.</p>
         <p class="credit"><span class="bold">Author Name</span><br><span class="italic">Business Title</span><br>Company</p>
     </blockquote>
 </section>
